@@ -1,0 +1,16 @@
+.flag {
+    height: 300px;
+    width: 550px;
+    border: 1px solid black;
+}
+    
+.first {
+    height: 150px;
+    width: 550px;
+    background-color: #ffffff;
+}
+.second {
+    height: 150px;
+    width: 550px;
+    background-color: #d72b1f;
+}
